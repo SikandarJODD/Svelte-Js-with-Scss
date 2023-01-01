@@ -1,4 +1,4 @@
-<img src="svsass.jpg" alt="Svelte Js with Scss" style="width:550px;"/>
+<img src="svsass.jpg" alt="Svelte Js with Scss" style="width:700px;"/>
 
 # Svelte-Js-with-Scss
 
