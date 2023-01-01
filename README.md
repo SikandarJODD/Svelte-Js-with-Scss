@@ -1,7 +1,5 @@
 # Svelte-Js-with-Scss
 Adding Scss to Svelte Js
-# Svelte-Js-with-Scss
-Adding Scss to Svelte Js
 
 ## Installation
 
@@ -54,6 +52,6 @@ To deploy this project run
 ## Add Scss to App.svelte
 
 ![Screenshot](output.png)
-![Screenshot](PackageImg.png)
+![Screenshot](PackageImg.PNG)
 
 
