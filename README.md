@@ -1,4 +1,4 @@
-![Screenshot](scsass.jpg)
+![Screenshot](svsass.jpg)
 
 # Svelte-Js-with-Scss
 Adding Scss to Svelte Js
