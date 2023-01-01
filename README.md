@@ -1,3 +1,5 @@
+![Screenshot](scsass.jpg)
+
 # Svelte-Js-with-Scss
 Adding Scss to Svelte Js
 
@@ -7,7 +9,6 @@ Install Svelte with vite
 
 ```bash
   npm create vite@latest
-  
 ```
 ```bash
   Project name : project 
