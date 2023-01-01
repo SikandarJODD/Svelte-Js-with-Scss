@@ -1,6 +1,7 @@
-![Screenshot](svsass.jpg)
+<img src="svsass.jpg" alt="Svelte Js with Scss" style="width:550px;"/>
 
 # Svelte-Js-with-Scss
+
 Adding Scss to Svelte Js
 
 ## Installation
@@ -10,12 +11,14 @@ Install Svelte with vite
 ```bash
   npm create vite@latest
 ```
+
 ```bash
-  Project name : project 
+  Project name : project
   Framework : SvelteJs
   Language : JavaScript
-  
+
 ```
+
 ```bash
   cd project
   npm i
@@ -23,7 +26,6 @@ Install Svelte with vite
   npm i sass --save--dev
 ```
 
-    
 ## Edti vite.config.js
 
 ```bash
@@ -44,15 +46,17 @@ To deploy this project run
 
 ```bash
   npm run dev
-
-  Project : http://localhost:5173
 ```
+  Project : [Localhost:5173](http://localhost:5173)
 
+## package.json Code :
 
-
-## Add Scss to App.svelte
-
-![Screenshot](output.png)
 ![Screenshot](PackageImg.PNG)
 
+## Running on port : 5173
 
+![Screenshot](output.png)
+
+## Scss Code in App.svelte
+
+![Screenshot](Code.PNG)
