@@ -1,24 +1,8 @@
-<style>
-  .co{
-  transition:all 0.3s ease;
-  color:royalblue;
-  }
-  .co:hover{
-  transition:all 0.3s ease;
-    color:#025de7;
-  }
-  h1{
-  color:#1f1f1f;
-  border:1px solid black;
-  border-radius:4px;
-  padding:10px;
-  text-align:center;
-  box-shadow:4px 4px black;
-  }
-</style>
 <img src="svsass.jpg" alt="Svelte Js with Scss" style="width:700px;"/>
 
-<h1> Svelte-Js with <span class="co">Scss</span></h1>
+<div align="center">
+    <img src="title.svg" width="400" height="100" alt="css-in-readme">
+</div>
 
 Adding Scss to Svelte Js
 
