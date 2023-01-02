@@ -1,6 +1,24 @@
+<style>
+  .co{
+  transition:all 0.3s ease;
+  color:royalblue;
+  }
+  .co:hover{
+  transition:all 0.3s ease;
+    color:#025de7;
+  }
+  h1{
+  color:#1f1f1f;
+  border:1px solid black;
+  border-radius:4px;
+  padding:10px;
+  text-align:center;
+  box-shadow:4px 4px black;
+  }
+</style>
 <img src="svsass.jpg" alt="Svelte Js with Scss" style="width:700px;"/>
 
-# Svelte-Js-with-Scss
+<h1> Svelte-Js with <span class="co">Scss</span></h1>
 
 Adding Scss to Svelte Js
 
@@ -22,7 +40,10 @@ Install Svelte with vite
 ```bash
   cd project
   npm i
-  npm install svelte-preprocess node-sass --save--dev
+```
+
+```bash
+  npm i svelte-preprocess node-sass --save--dev
   npm i sass --save--dev
 ```
 
@@ -42,12 +63,13 @@ Install Svelte with vite
 
 ```
 
-To deploy this project run
+Restart the <a>VS-Code</a> and Run the Command
 
 ```bash
   npm run dev
 ```
-  Project : [Localhost:5173](http://localhost:5173)
+
+Project : [Localhost:5173](http://localhost:5173)
 
 ## package.json Code :
 
