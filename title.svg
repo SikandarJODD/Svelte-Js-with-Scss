@@ -13,12 +13,14 @@
   h1{
   margin: 20px;
   font-family: Arial, sans-serif;
-  color:#1f1f1f;
+  color:#fff;
   border:1px solid black;
   border-radius:4px;
   padding:10px;
   text-align:center;
   box-shadow:4px 4px black;
+ background: rgb(0,0,0);
+background: linear-gradient(90deg, rgba(0,0,0,0.5139006286108193) 6%, rgba(29,29,29,0.36824236530549714) 77%);
   }
 </style>
             <h1> Svelte-Js with <span class="co">Scss</span></h1>
