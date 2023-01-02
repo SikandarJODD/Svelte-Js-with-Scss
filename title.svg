@@ -2,28 +2,18 @@
     <foreignObject width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml">
             <style>
-  .co{
-  transition:all 0.3s ease;
-  color:royalblue;
-  }
-  .co:hover{
-  transition:all 0.3s ease;
-    color:#025de7;
-  }
   h1{
   margin: 20px;
   font-family: Arial, sans-serif;
-  color:white;
+  color:#2257fe;
   border:1px solid black;
   border-radius:4px;
   padding:10px;
   text-align:center;
   box-shadow:4px 4px black;
- background: rgb(0,0,0);
-background: linear-gradient(90deg, rgba(0,0,0,0.5139006286108193) 6%, rgba(29,29,29,0.36824236530549714) 77%);
   }
 </style>
-            <h1> Svelte-Js with <span class="co">Scss</span></h1>
+            <h1> Svelte-Js with Scsss</h1>
         </div>
     </foreignObject>
 </svg>
